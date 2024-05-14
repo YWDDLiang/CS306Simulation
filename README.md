@@ -1,5 +1,6 @@
 # CS306Simulation
 - This repo is used to support CS306 Final Project.
+- This project is an Android application that has the functionality of a movement tracker and music player designed to track physical activity, monitor health parameters, and provide insights for users engaging in outdoor activities and developed within the com.example.cs306 package, this project leverages various Android components and third-party libraries to offer a comprehensive solution for users interested in monitoring their movement and health-related metrics.
 # References
 ```
 @online{display1,
